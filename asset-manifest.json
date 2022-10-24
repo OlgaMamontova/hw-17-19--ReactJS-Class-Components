@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hw-17-19--ReactJS-Class-Components/static/css/main.3e31b53e.css",
+    "main.js": "/hw-17-19--ReactJS-Class-Components/static/js/main.b248f02e.js",
+    "static/js/787.d27549cd.chunk.js": "/hw-17-19--ReactJS-Class-Components/static/js/787.d27549cd.chunk.js",
+    "index.html": "/hw-17-19--ReactJS-Class-Components/index.html",
+    "main.3e31b53e.css.map": "/hw-17-19--ReactJS-Class-Components/static/css/main.3e31b53e.css.map",
+    "main.b248f02e.js.map": "/hw-17-19--ReactJS-Class-Components/static/js/main.b248f02e.js.map",
+    "787.d27549cd.chunk.js.map": "/hw-17-19--ReactJS-Class-Components/static/js/787.d27549cd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3e31b53e.css",
+    "static/js/main.b248f02e.js"
+  ]
+}
