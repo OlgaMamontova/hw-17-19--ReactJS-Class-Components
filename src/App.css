@@ -3,11 +3,10 @@ body {
   background-color: rgb(243, 242, 242);
 }
 .wrapper_line{
-  width: 500px;
+  width: 350px;
   margin:0 auto 30px;
   height: 10px;
-  border: 2px solid rgb(89, 89, 245);
-  
+  border: 2px solid rgb(89, 89, 245);  
 }
 .line{
   width: 100%;

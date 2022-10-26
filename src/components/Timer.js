@@ -10,8 +10,8 @@ class Timer extends Component {
             step: props.step,
             seconds: 0,
             isStarted: false,            
-            widthLine: 500,
-            widthFromTime: 500/(props.time*60)*(props.step/1000),
+            widthLine: 350,
+            widthFromTime: 350/(props.time*60)*(props.step/1000),
             onTick: props.onTick,
             onTimeStart: props.onTimeStart,
             onTimePause: props.onTimePause,
@@ -23,7 +23,7 @@ class Timer extends Component {
         this.setState(() => ({
             minutes: this.props.time,
             seconds: 0,
-            widthLine: 500,
+            widthLine: 350,
         }))
         const {autostart} = this.state;      
             if(autostart == true){
